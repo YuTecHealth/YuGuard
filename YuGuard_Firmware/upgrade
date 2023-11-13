@@ -2,13 +2,13 @@
   {
     "userId": 1,
     "id": 1,
-    "title": "true",
+    "title": "1.1.2",
     "body": "YuGuard_DFU_pkg_20230811(10secs, FW v1.1.2)"
   },
   {
     "userId": 1,
     "id": 2,
-    "title": "false",
-    "body": "YuGuard_DFU_pkg_2024(10secs, FW v2.0)"
+    "title": "2.0",
+    "body": "YuGuard_DFU_pkg_2024(FW v2.0)"
   }
 ]
