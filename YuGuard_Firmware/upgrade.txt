@@ -1,0 +1,2 @@
+1
+YuGuard_DFU_pkg_20230811(10secs, FW v1.1.2)
