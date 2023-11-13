@@ -2,13 +2,13 @@
   {
     "userId": 1,
     "id": 1,
-    "title": "qui est esse",
-    "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+    "title": "true",
+    "body": "YuGuard_DFU_pkg_20230811(10secs, FW v1.1.2)"
   },
   {
     "userId": 1,
     "id": 2,
-    "title": "qui est esse",
-    "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+    "title": "false",
+    "body": "YuGuard_DFU_pkg_2024(10secs, FW v2.0)"
   }
 ]
